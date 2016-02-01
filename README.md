@@ -10,12 +10,8 @@ First read the current reading with arduino then forward it to Dragonboard for f
 
 I'm new to this share code thing so if it doesn't work on your machine ( it works on mine :-) ) i might have uploaded someting wrong. please send me an email.
 
-## Warning 
-The AI algortihm in this example is simple. If you dont understand how this thing works or why this thing works. Please watch online lessons on Youtube or Edx or Coursera or < insert your favorite onlien lesson provider here >
-
-English is not my first language so beware of some strange usage of English.
-
-Hope you enjoy this system
+## AI 
+The AI algortihm in this example is simple. If you don't understand how this thing works or why this thing works. Please watch online lessons on Youtube or Edx or Coursera or < insert your favorite onlien lesson provider here >
 
 ## Softwares Used
 
@@ -36,6 +32,10 @@ For the system to work you should supply Arduino with external power 9V would be
 You should change IP addresses, Certificate files etc. or the system will not work.
 For 33 ohms I use three 100 ohms resistor in parallel. 
 
+
+English is not my first language so beware of some strange usage of English.
+
+Hope you enjoy this system
 
 
 
