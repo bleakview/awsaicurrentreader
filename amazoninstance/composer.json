@@ -1,0 +1,7 @@
+{
+    "require": {
+        "twilio/sdk": "^4.10",
+        "aws/aws-sdk-php": "2.*",
+        "aws/aws-php-sns-message-validator": "^1.1"
+    }
+}
