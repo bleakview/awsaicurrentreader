@@ -1,5 +1,5 @@
-# awscontest
-This is for AWS hackster contest.
+# AWS AI Current Reader
+
 # WARNING
 You have to cut the protective cover of wires for current measurement. It might be dangerous to do so. Please think before acting.
 
